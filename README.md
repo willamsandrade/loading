@@ -1,3 +1,4 @@
 # loading
 Loading em HTML e CSS
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+<br>
+<img src="http://ideiasst.com.br/gitgif/2021-06-03%2015-27-03.gif"  />
